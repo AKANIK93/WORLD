@@ -1,6 +1,4 @@
-# WORLD
-This is practice repository
-# Usage
+## Usage
 
 - **Search for Restaurants**: Use the search functionality to find dining options based on your preferences.
 - **Explore Restaurant Profiles**: Click on a restaurant to view its detailed profile, including menu items and reviews.
@@ -8,14 +6,14 @@ This is practice repository
 - **Save Favourites**: Create an account to save your favourite restaurants and receive personalized recommendations.
 - **Get Directions**: Click on the map integration to get directions to the selected restaurant.
 
-## Contributors
+
 
 Thank you to the following contributors who have helped to improve this project:
 
-| Name           | Email Address     | Phone Number   |
-|----------------|-------------------|----------------|
-| Contributor 1  | Email address 1   | Phone Number 1 |
-| Contributor 2  | Email address 2   | Phone Number 2 |
-| Contributor 3  | Email address 3   | Phone Number 3 |
-| Contributor 4  | Email address 4   | Phone Number 4 |
-| Contributor 5  | Email address 5   | Phone Number 5 |
+| Name                               | Email Address                       | Phone Number   |
+|------------------------------------|-------------------------------------|----------------|
+| Mehedi Hasan                       | mehedi.hasan@bjitacademy.com        | 01969367372    |
+| Muhammad Nayeem Mubasshirul Haque  | nayeem.mubasshirul@bjitacademy.com  | 01704755634    |
+| Pritam Golder                      | pritam.golder@bjitacademy.com       | 01516103485 |
+| Md. Azharul Karim Chowdhury Anik   | azharul.karim@bjitacademy.com       | P01855234355   |
+| Md. Sirazul Islam                  | sirazul.islam@bjitacademy.com       | 01631903266    |
